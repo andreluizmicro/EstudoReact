@@ -8,3 +8,7 @@ SRC -> pasta src é o código fonte da página.
 ### JSX
 JSX não é HTML!!!
 NO JSX você poderá apenas retornar um único elemento
+
+### Quando temos o use antes se trata de um hook
+useState 
+useEffect
